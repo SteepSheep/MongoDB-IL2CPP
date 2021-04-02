@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="System.Core">
+    <type fullname="System.Linq.Expressions.Interpreter.LightLambda" preserve="all" />
+  </assembly>
+  <assembly fullname="MongoDB.Bson" preserve="all">
+    <type fullname="BsonClassMap" preserve="all" />
+  </assembly>
+</linker>
